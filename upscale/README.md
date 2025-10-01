@@ -1,1 +1,1 @@
-Auther: Benoy
+Author: Benoy
