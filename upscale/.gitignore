@@ -1,0 +1,6 @@
+echo "myenv/" >> .gitignore
+echo "*.dll" >> .gitignore
+echo "*.pyd" >> .gitignore
+echo "*.pth" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
